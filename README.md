@@ -22,3 +22,8 @@ This project builds a simple TCP-based communication between two services (Serve
 ### Purpose
 
 The goal of this project is to understand how microservices can communicate internally without using HTTP, and to build a lightweight TCP-based protocol for server-to-server (S2S) communication.
+
+### Future Improvements
+
+- Upgrade the system to use gRPC for more efficient, scalable, and structured communication.
+- Define services and messages using Protocol Buffers.
